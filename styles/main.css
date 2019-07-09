@@ -1,13 +1,15 @@
+/*Styles for header*/
 header img {float: left;
 		margin-right: .1em;
 		padding-top: .7em;
 		 }
-		 
+/*Styles for body*/		 
 body{
 	font-family: sans seriff;
 	font-size: 100%;
 }
-		 
+
+/*Styles for footer*/
 footer p{
 	text-align: center;
 	font-size: 90%;
